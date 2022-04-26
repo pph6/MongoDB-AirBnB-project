@@ -2,7 +2,7 @@
 
 
 ## Data 
-URL LINK: [Athens, Greece]("http://insideairbnb.com/get-the-data")
+URL LINK: http://insideairbnb.com/get-the-data
 - Originally in CSV form. 
 - [Link to data within this repository](data/listings.csv)
 
